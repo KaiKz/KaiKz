@@ -1,24 +1,24 @@
-
-
-<h1 align="center">Hi, I’m Kai👋</h1>
+<h1 align="center">Hi, I’m Kai 👋</h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/kai-zhang-315484256/">LinkedIn</a> • <a href="mailto:<zhangkai0803@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/kai-zhang-315484256/">LinkedIn</a> • 
+  <a href="mailto:zhangkai0803@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 👩‍💻 about me  
-I’m a software engineering, AL/ML and Human-AI Collaboration enthusiast driven by the idea that thoughtful code and thoughtful design can improve real lives. I am also a researcher interested in 3D vision, Learning-based methods for geometry, VR/MR systems for embodied interaction and data capture, Human-AI interaction in XR systems, and GPU-based numerical optimization.
-* 🎓 CS undergraduate @ Columbia University, expected May 2026  
-* 🌍 International background ➜ Fluent in Mandarin and English; intermediate in Italian and French. I grew up in Beijing, China. I lived in England for 4 years, Italy for 5 years, and I’ve been based in New York City since summer 2024!
-* 🔭 Interested in scalable backend systems, applied ML for accessibility, and resarch in Human-AI Collaboration
-* 🌱 Currently finishing a 6-course sprint while preparing for SDE interviews  
-* 🤝 Open to collaboration on socially beneficial tech and sustainability projects
+I’m a Applied Mathematics + Computer Science undergraduate at Columbia University interested in quantitative research, machine learning, optimization, and systems. My current interests are centered on time series, sequential data, regime change, statistical inference, and the mathematical foundations behind predictive modeling. I’m especially drawn to work that combines rigorous modeling with strong implementation, whether in research code, open-source tools, or high-performance systems.
+
+* 🎓 CS undergraduate @ Columbia University, expected May 2028 
+* 📈 Interested in quantitative finance, time-series modeling, optimization, and machine learning  
+* 🧠 Currently exploring changepoint detection, statistical inference, and learning methods for sequential data  
+* 💻 Also interested in systems, low-level programming, and building reliable research infrastructure  
+* 🌍 International background; fluent in Mandarin and English, with intermediate Italian and French  
+* 🤝 Open to collaboration on research, open-source, and quantitatively driven projects
 
 ---
 
 ## 📫 contact  
-* **Email:** zhangkai0803(at)gmail(dot)com 
-* **LinkedIn:** [linkedin.com/in/kai-zhang-315484256/](www.linkedin.com/in/kai-zhang-315484256/)  
-* **Pronouns:** he/them
+* **Email:** zhangkai0803(at)gmail(dot)com  
+* **LinkedIn:** [linkedin.com/in/kai-zhang-315484256/](https://www.linkedin.com/in/kai-zhang-315484256/)  
