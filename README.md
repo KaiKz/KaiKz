@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 about me  
-I’m a Applied Mathematics + Computer Science undergraduate at Columbia University interested in quantitative research, machine learning, optimization, and systems. My current interests are centered on time series, sequential data, regime change, statistical inference, and the mathematical foundations behind predictive modeling. I’m especially drawn to work that combines rigorous modeling with strong implementation, whether in research code, open-source tools, or high-performance systems.
+I’m a Applied Mathematics + Computer Science undergraduate at Columbia University interested in quantitative research, machine learning, optimization, and systems. My interest sits in between Math, Algorithms and Economics. I’m especially drawn to work that combines rigorous modeling with strong implementation, whether in research code, open-source tools, or high-performance systems.
 
 * 🎓 CS undergraduate @ Columbia University, expected May 2028 
 * 📈 Interested in quantitative finance, time-series modeling, optimization, and machine learning  
