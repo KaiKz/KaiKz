@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Kai 👋</h1>
+<!-- <h1 align="center">Hi, I’m Kai 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kai-zhang-315484256/">LinkedIn</a> • 
@@ -21,4 +21,4 @@ I’m a Applied Mathematics + Computer Science undergraduate at Columbia Univers
 
 ## 📫 contact  
 * **Email:** zhangkai0803(at)gmail(dot)com  
-* **LinkedIn:** [linkedin.com/in/kai-zhang-315484256/](https://www.linkedin.com/in/kai-zhang-315484256/)  
+* **LinkedIn:** [linkedin.com/in/kai-zhang-315484256/](https://www.linkedin.com/in/kai-zhang-315484256/)   -->
